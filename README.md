@@ -8,9 +8,7 @@ Debug messages will saved in /logs.
 
 # Preview
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/The-Red-Circle/simple-winston-logger/blob/main/assets/preview.png">
-</p>
+![Preview](https://github.com/The-Red-Circle/simple-winston-logger/blob/main/assets/preview.png)
 
 # Packages
 All packages can be found on npm.
