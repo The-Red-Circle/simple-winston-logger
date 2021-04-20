@@ -7,7 +7,10 @@ This contains a simple logger which I normally use for all my node.js projects.
 Debug messages will saved in /logs.
 
 # Preview
-[Preview](https://github.com/The-Red-Circle/simple-winston-logger/blob/main/assets/preview.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/The-Red-Circle/simple-winston-logger/blob/main/assets/preview.png">
+</p>
 
 # Packages
 All packages can be found on npm.
